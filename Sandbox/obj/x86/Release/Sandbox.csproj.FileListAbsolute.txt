@@ -1,0 +1,17 @@
+C:\Users\Per\AppData\Local\Temporary Projects\Sandbox\bin\Release\Sandbox.exe
+C:\Users\Per\AppData\Local\Temporary Projects\Sandbox\bin\Release\Sandbox.pdb
+C:\Users\Per\AppData\Local\Temporary Projects\Sandbox\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Per\AppData\Local\Temporary Projects\Sandbox\obj\x86\Release\Sandbox.exe
+C:\Users\Per\AppData\Local\Temporary Projects\Sandbox\obj\x86\Release\Sandbox.pdb
+C:\Users\Per\documents\visual studio 2010\Projects\Sandbox\Sandbox\obj\x86\Release\Sandbox.exe
+C:\Users\Per\documents\visual studio 2010\Projects\Sandbox\Sandbox\obj\x86\Release\Sandbox.pdb
+C:\Users\Per\Documents\Visual Studio 2010\Projects\Sandbox\Sandbox\bin\Release\Sandbox.exe
+C:\Users\Per\Documents\Visual Studio 2010\Projects\Sandbox\Sandbox\bin\Release\Sandbox.pdb
+C:\Users\Per\Documents\Visual Studio 2010\Projects\Sandbox\Sandbox\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Per\Documents\Visual Studio 2010\Projects\Company_v1\Sandbox\bin\Release\Sandbox.exe
+C:\Users\Per\Documents\Visual Studio 2010\Projects\Company_v1\Sandbox\bin\Release\Sandbox.pdb
+C:\Users\Per\Documents\Visual Studio 2010\Projects\Company_v1\Sandbox\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Per\Documents\Visual Studio 2010\Projects\Company_v1\Sandbox\obj\x86\Release\Sandbox.exe
+C:\Users\Per\Documents\Visual Studio 2010\Projects\Company_v1\Sandbox\obj\x86\Release\Sandbox.pdb
+C:\Users\psl\Desktop\Unsolved_VC2012\Company_v1\Sandbox\obj\x86\Release\Sandbox.exe
+C:\Users\psl\Desktop\Unsolved_VC2012\Company_v1\Sandbox\obj\x86\Release\Sandbox.pdb

@@ -1,0 +1,18 @@
+C:\Users\Per\Documents\Visual Studio 2010\Projects\Company_v1\Sandbox\bin\Release\Sandbox.exe
+C:\Users\Per\Documents\Visual Studio 2010\Projects\Company_v1\Sandbox\bin\Release\Sandbox.pdb
+C:\Users\Per\Documents\Visual Studio 2010\Projects\Company_v1\Sandbox\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Per\Documents\Visual Studio 2010\Projects\Company_v1\Sandbox\obj\x86\Release\Sandbox.exe
+C:\Users\Per\Documents\Visual Studio 2010\Projects\Company_v1\Sandbox\obj\x86\Release\Sandbox.pdb
+C:\Users\psl\Desktop\Unsolved_VC2012\Company_v1\Sandbox\bin\Release\Sandbox.exe
+C:\Users\psl\Desktop\Unsolved_VC2012\Company_v1\Sandbox\bin\Release\Sandbox.pdb
+C:\Users\psl\Desktop\Unsolved_VC2012\Company_v1\Sandbox\obj\x86\Release\Company_v1.csprojResolveAssemblyReference.cache
+C:\Users\psl\Desktop\Unsolved_VC2012\Company_v1\Sandbox\obj\x86\Release\Sandbox.exe
+C:\Users\psl\Desktop\Unsolved_VC2012\Company_v1\Sandbox\obj\x86\Release\Sandbox.pdb
+C:\Users\EASJ\Desktop\week - Inheritance\Unsolved Task\Company_v1\Sandbox\obj\x86\Release\Sandbox.exe
+C:\Users\EASJ\Desktop\week - Inheritance\Unsolved Task\Company_v1\Sandbox\obj\x86\Release\Sandbox.pdb
+C:\Users\marci\Desktop\school excersises\Company_v1\Sandbox\bin\Release\Sandbox.exe
+C:\Users\marci\Desktop\school excersises\Company_v1\Sandbox\bin\Release\Sandbox.pdb
+C:\Users\marci\Desktop\school excersises\Company_v1\Sandbox\obj\x86\Release\Company_v1.csprojResolveAssemblyReference.cache
+C:\Users\marci\Desktop\school excersises\Company_v1\Sandbox\obj\x86\Release\Company_v1.csproj.CoreCompileInputs.cache
+C:\Users\marci\Desktop\school excersises\Company_v1\Sandbox\obj\x86\Release\Sandbox.exe
+C:\Users\marci\Desktop\school excersises\Company_v1\Sandbox\obj\x86\Release\Sandbox.pdb
